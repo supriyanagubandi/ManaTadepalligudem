@@ -1,0 +1,27 @@
+
+.header{
+	background-color: white;
+	height: 50px;
+	text-align: left;
+	margin-top : 0px;
+	line-height: 50px;
+	margin-left: 20px;
+	margin-bottom: 0px;
+	font-family: 'Titillium+Web';
+}
+
+h1 {
+	line-height: 40px;
+	margin-bottom: 0px;
+	float: left;
+}
+
+a {
+	float: right;
+	margin-right: 10px;
+	font-size: 15px;
+	text-decoration: blink;
+	color: orange;
+
+
+}

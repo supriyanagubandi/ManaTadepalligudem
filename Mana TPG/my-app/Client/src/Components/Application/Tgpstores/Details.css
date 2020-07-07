@@ -1,0 +1,13 @@
+.head {
+    display: flex;
+}
+
+.head-left{
+    display: flex;
+    flex: 1;
+}
+
+.head-right{
+    display: flex;
+    flex:0;
+}

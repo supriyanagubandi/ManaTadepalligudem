@@ -1,0 +1,28 @@
+
+.home{
+	
+	width: 100%;
+	
+	display: block;
+	clear: left;
+	
+}
+
+img {
+	width: 100%;
+	height: 400px;
+	
+}
+
+.outline {
+	margin: 10px;
+}
+
+.gutter-example .ant-row > div {
+	background: transparent;
+	border: 0;
+  }
+.gutter-box {
+	background: #00a0e9;
+	padding: 5px 0;
+  }

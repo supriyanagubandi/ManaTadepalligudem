@@ -1,0 +1,48 @@
+
+.navigationbar{
+	background-color: #333;
+	height: 50px;
+		margin: 0px;
+		overflow-y: hidden;
+
+}
+
+.navigationbar ul {
+	margin:0px;
+}
+
+.navigationbar ul li {
+	list-style-type: none;
+	display: inline;
+	padding: 0px 20px;
+	line-height: 50px;
+	color: white;
+	float: left;
+	height: 100%;
+	cursor: pointer;
+	font-size: 20px;
+	margin: 0px;
+	margin-top:0px;
+	font-weight: bold;
+
+
+}
+
+
+
+.navigationbar ul li:hover {
+	
+	background-color: white;
+	color: #333;
+
+}
+
+.selected  {
+	background-color: white;
+	color: #333;
+}
+
+.selected a {
+	color: black;
+}
+
